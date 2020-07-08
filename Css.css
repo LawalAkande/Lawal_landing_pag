@@ -1,0 +1,23 @@
+body{
+    background-color: navy;
+    color: white;
+}
+
+#heading_info{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#btn1{
+    color: white;
+}
+
+#btn2{
+    border-radius: 20px;
+}
+#btn3{
+    background-color: aqua;
+    border-radius: 20px;
+    width: 130px;
+}
+
